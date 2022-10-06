@@ -1,1 +1,1 @@
-Shell basic pwd
+Shell basic task
